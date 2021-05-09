@@ -1,6 +1,6 @@
 
 
-export type SaleSun = {
+export type SaleSum = {
 sallerName : string,
 sun: number
 
