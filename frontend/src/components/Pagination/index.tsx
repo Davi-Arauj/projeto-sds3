@@ -1,4 +1,4 @@
-impport {SallePage} from "types/sale";
+import {SallePage} from "types/sale";
 
 type Props = {
 page: SallePage;
