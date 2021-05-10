@@ -1,6 +1,7 @@
+impport {SallePage} from "types/sale";
 
 type Props = {
-page: SalePage;
+page: SallePage;
 onPageChange: Function;
 
 }
