@@ -1,6 +1,6 @@
 
 type Props = {
-page: SallePage;
+page: SalePage;
 onPageChange: Function;
 
 }
